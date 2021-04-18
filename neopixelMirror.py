@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
+https://picamera.readthedocs.io/en/release-1.10/api_array.html#piarrayoutput
 Neopixel LED Mirror Code (Neopixel LED Mirror - Super Make Something Episode 20)
 by: Alex - Super Make Something
 date: November 18, 2019
